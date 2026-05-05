@@ -53,7 +53,7 @@ header {
 
 /* Efeito quando o rato passa por cima (ou o dedo toca) */
 .btn:hover {
-    background-color: #3498db;
+    background-color: #9334db;
     color: white;
     transform: translateY(-3px); /* Pequeno salto para cima */
 }
